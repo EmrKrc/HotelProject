@@ -1,0 +1,17 @@
+C:\Users\karac\Desktop\HotelProject\ApiConsume\HotelProject.DtoLaye\bin\Debug\net7.0\HotelProject.DtoLaye.deps.json
+C:\Users\karac\Desktop\HotelProject\ApiConsume\HotelProject.DtoLaye\bin\Debug\net7.0\HotelProject.DtoLaye.runtimeconfig.json
+C:\Users\karac\Desktop\HotelProject\ApiConsume\HotelProject.DtoLaye\bin\Debug\net7.0\HotelProject.DtoLaye.dll
+C:\Users\karac\Desktop\HotelProject\ApiConsume\HotelProject.DtoLaye\bin\Debug\net7.0\HotelProject.DtoLaye.pdb
+C:\Users\karac\Desktop\HotelProject\ApiConsume\HotelProject.DtoLaye\bin\Debug\net7.0\HotelProject.EntityLayer.dll
+C:\Users\karac\Desktop\HotelProject\ApiConsume\HotelProject.DtoLaye\bin\Debug\net7.0\HotelProject.EntityLayer.pdb
+C:\Users\karac\Desktop\HotelProject\ApiConsume\HotelProject.DtoLaye\obj\Debug\net7.0\HotelProject.DtoLaye.csproj.AssemblyReference.cache
+C:\Users\karac\Desktop\HotelProject\ApiConsume\HotelProject.DtoLaye\obj\Debug\net7.0\HotelProject.DtoLaye.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karac\Desktop\HotelProject\ApiConsume\HotelProject.DtoLaye\obj\Debug\net7.0\HotelProject.DtoLaye.AssemblyInfoInputs.cache
+C:\Users\karac\Desktop\HotelProject\ApiConsume\HotelProject.DtoLaye\obj\Debug\net7.0\HotelProject.DtoLaye.AssemblyInfo.cs
+C:\Users\karac\Desktop\HotelProject\ApiConsume\HotelProject.DtoLaye\obj\Debug\net7.0\HotelProject.DtoLaye.csproj.CoreCompileInputs.cache
+C:\Users\karac\Desktop\HotelProject\ApiConsume\HotelProject.DtoLaye\obj\Debug\net7.0\HotelPro.3B8C6EDB.Up2Date
+C:\Users\karac\Desktop\HotelProject\ApiConsume\HotelProject.DtoLaye\obj\Debug\net7.0\HotelProject.DtoLaye.dll
+C:\Users\karac\Desktop\HotelProject\ApiConsume\HotelProject.DtoLaye\obj\Debug\net7.0\refint\HotelProject.DtoLaye.dll
+C:\Users\karac\Desktop\HotelProject\ApiConsume\HotelProject.DtoLaye\obj\Debug\net7.0\HotelProject.DtoLaye.pdb
+C:\Users\karac\Desktop\HotelProject\ApiConsume\HotelProject.DtoLaye\obj\Debug\net7.0\HotelProject.DtoLaye.genruntimeconfig.cache
+C:\Users\karac\Desktop\HotelProject\ApiConsume\HotelProject.DtoLaye\obj\Debug\net7.0\ref\HotelProject.DtoLaye.dll
